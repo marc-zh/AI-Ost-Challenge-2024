@@ -1,4 +1,6 @@
-<img width="760" height="605" alt="image" src="https://github.com/user-attachments/assets/c5c7551b-5918-410e-9601-6842209da772" />
+
+<img width="612" height="510" alt="image" src="https://github.com/user-attachments/assets/33bb95f8-fdd7-449e-b06a-dc68e68fb257" />
+
 AI-OST-Challenge in Rapperswil
 Was wir machen mussten:
 Eine kleine AI trainieren damit das Auto selbst fährt.
